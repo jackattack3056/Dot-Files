@@ -50,6 +50,11 @@ vim.keymap.set("n", "<leader><leader>", function()
     vim.cmd("so")
 end)
 
+--snippits
+
+
+
+
 --tmux navigation commands
 --vim.keymap.set("n","<C-h>","<cmd> TmuxNavigatorLeft<CR>","window left")
 
